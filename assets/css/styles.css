@@ -1,0 +1,19 @@
+@media (min-width: 576px) {
+  .col.line1 {
+  }
+}
+
+.dash-menu {
+  padding: 5px;
+  margin: 2px;
+  /*background-color:#323232;*/
+  /*width:100%;*/
+}
+
+.dash-menu a {
+  color: #ffffff;
+}
+
+.width300 {
+  width: 250px;
+}
