@@ -42,3 +42,6 @@ Service Station Management System
 - Create a database <your_database>
 - Give all Priviledge to the database
 - Import carpal.sql file into <your_database>
+
+## Setup System Files
+- Config database and root file setting in standard CodeIgniter config files.
