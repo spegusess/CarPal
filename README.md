@@ -44,4 +44,4 @@ Service Station Management System
 - Import carpal.sql file into <your_database>
 
 ## Setup System Files
-- Config database and root file setting in standard CodeIgniter config files.
+- Config database and root file setting in default CodeIgniter config files.
